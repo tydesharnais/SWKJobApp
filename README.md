@@ -18,7 +18,7 @@ This Job Tracker is a comprehensive web application designed to streamline the j
 ## Getting Started
 ### Prerequisites
 - Python 3.8+
-- Node.js
+
 
 ### Installation
 1. Clone the repository: `git clone [repository URL]`
