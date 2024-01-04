@@ -1,3 +1,4 @@
+![alt text](https://github.com/tydesharnais/SWKJobApp/blob/main/images/icon128.png?raw=true)
 # Job Tracker and Curator
 
 ## Overview
