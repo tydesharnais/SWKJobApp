@@ -1,5 +1,5 @@
 ![alt text](https://github.com/tydesharnais/SWKJobApp/blob/main/images/icon128.png?raw=true)
-# Job Tracker and Curator
+# SWK (Swiss Army Knife) Job Tracker and Curator
 
 ## Overview
 This Job Tracker is a comprehensive web application designed to streamline the job search process. It utilizes JavaScript, Bootstrap, Python FastAPI, and HTML, along with asynchronous fetch functions to dynamically retrieve job listings from LinkedIn, Indeed, and Glassdoor. The application allows users to filter jobs based on Location, Date Posted, and Job Title.
